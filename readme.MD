@@ -7,3 +7,5 @@ When you open the page, a popup shows up in the bottom right corner. It fades an
 The idea was just to practice UI details and simple logic. Smooth transitions, clean layout and basic state control. Everything is handled with classes and localStorage, so the code stays clear and easy to understand.
 
 This project is small, but it’s built properly.
+
+If you would like to see the project demo: https://oliwier-dev.github.io/A-simple-cookie-consent/
