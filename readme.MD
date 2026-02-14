@@ -9,3 +9,5 @@ The idea was just to practice UI details and simple logic. Smooth transitions, c
 This project is small, but it’s built properly.
 
 If you would like to see the project demo: https://oliwier-dev.github.io/A-simple-cookie-consent/
+
+I made the project based on this description: https://roadmap.sh/projects/cookie-consent
